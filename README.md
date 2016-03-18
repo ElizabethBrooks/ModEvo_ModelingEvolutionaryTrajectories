@@ -1,2 +1,5 @@
 # ModEvo_ModelingEvolutionaryTrajectories
-An exstensible software infrastructure for modeling the evolutionary trajectories of a species, taking into account underlying developmental interactions.
+
+"An extensible software infrastructure for testing the evolutionary consequences of developmental interactions"
+
+Quantitative genetic models commonly use the additive genetic variance-covariance matrix (G-matrix) of a set of traits to predict evolution in response to selection. However, non-linear interactions between developmental factors underlying the production of traits can produce dramatic changes to the G-matrix. To our knowledge there are no freely available tools for predicting the effect of non-linear interactions on evolutionary dynamics. We have developed a code base and built two models for testing hypotheses about the effects of specific non-linear developmental interactions on trait (co)variances and ultimate evolutionary trajectories.
