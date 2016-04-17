@@ -1,7 +1,5 @@
 # ModEvo_ModelingEvolutionaryTrajectories
 
-## http://curie.cs.wwu.edu/
-
 ## Publication:
 "An extensible software infrastructure for testing the evolutionary consequences of developmental interactions"
 http://dl.acm.org/citation.cfm?id=2816837&dl=ACM&coll=DL&CFID=592703497&CFTOKEN=33557403
